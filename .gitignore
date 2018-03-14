@@ -1,0 +1,10 @@
+bin/
+*.project
+.settings/
+*.classpath
+target/
+.idea/*
+*.iml
+*.idea
+.externalToolBuilders/
+*/src/main/webapp/META-INF/MANIFEST.MF
